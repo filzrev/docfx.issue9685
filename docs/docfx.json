@@ -5,8 +5,8 @@
         {
           "src": "../src",
           "files": [
-            "**.csproj",
-            "**.cs"
+            "**/*.csproj",
+
           ]
         }
       ],
