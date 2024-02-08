@@ -9,5 +9,7 @@ public class Sample
     /// ...
     /// <code source="DataStoreExamples.cs"></code>
     /// </summary>
-    public DataStoreGetVariableRequest GetVariable(string key, object defaultValue);
+    public DataStoreGetVariableRequest GetVariable(string key, object defaultValue)
+    {
+    }
 }
