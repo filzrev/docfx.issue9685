@@ -1,7 +1,7 @@
 using namespace SampleLib;
 
 /// <summary>
-/// Sample enum
+/// Sample enum1
 /// </summary>
 public enum SampleEnum1
 {
@@ -12,11 +12,11 @@ public enum SampleEnum1
 }
 
 /// <summary>
-/// Summary.
+/// Sample enum2
 /// </summary>
 public enum SampleEnum2
 {
     None = 0,
-    Enum1 = 10,
-    Enum2 = 20,
+    Enum20 = 20,
+    Enum10 = 10,
 }
